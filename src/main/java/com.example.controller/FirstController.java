@@ -28,6 +28,7 @@ public class FirstController {
 	{
 		System.out.println("===================="+id);
 		System.out.println(firstService.queryAllEmp());
+		System.out.println("做出了修改");
 		return "index2";
 	}
 	
