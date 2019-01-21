@@ -15,7 +15,6 @@ import com.example.service.FirstService;
  * FirstService
  * JONE
  * cccc
- * dddd
  */
 @Controller
 public class FirstController {
